@@ -14,8 +14,8 @@ namespace MergeSort
 			myArray.Sort();		// perofrm the sort
 
 			Console.WriteLine("After sorting:  {0}", myArray);
-
-			System.Threading.Thread.Sleep(100000);
+			
+			System.Threading.Thread.Sleep(10000);
 
 		}
     }

@@ -9,3 +9,13 @@ C:\Users\Dave\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort
 C:\Users\Dave\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.dll
 C:\Users\Dave\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.pdb
 C:\Users\Dave\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csprojResolveAssemblyReference.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.deps.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.dev.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.dll
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.pdb
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfoInputs.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfo.cs
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.dll
+D:\Users\Dave\My Documents\Data\class\dotNet2018\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.pdb
